@@ -10,7 +10,7 @@ from utils import opening_text
 from pprint import pprint
 
 
-USERNAME = config('Aarya')
+USERNAME = config('Madhu')
 BOTNAME = config('Kiana Ai')
 
 
