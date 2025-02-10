@@ -39,3 +39,4 @@ Here is an overview of the key components and capabilities of my project:
   online sources, interacting with the user through text-to-speech and speech recognition, performing system operations, providing 
   entertainment through jokes and videos, and managing basic utility tasks like sending messages and emails.
 
+
